@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "2.61.0"
+  version: "2.62.0"
 
 package:
   name: datadog-api-client
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/d/datadog-api-client/datadog_api_client-${{ version }}.tar.gz
-  sha256: 75a0cf5c5805a6ad76eaf6c0aaddebf43138cca7431ff41b8a17f842c70684e2
+  sha256: fec6a649dac5dd7224f64662390005e6d6ce688029742278346f46190d0fc902
 
 build:
   number: 0
